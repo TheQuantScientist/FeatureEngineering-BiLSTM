@@ -59,9 +59,5 @@ Follow the instructions below to set up your environment, train the models with 
 
 The BiLSTM model, when applied to enhanced datasets, consistently outperforms traditional statistical and Machine Learning models, reducing MSE by an average of 68.44% and MAE by 47.78%. The enhanced datasets effectively capture market trends and external influences, leading to more accurate forecasts.
 
-## Conclusion
-
-This research validates the effectiveness of Deep Learning models, especially BiLSTM, in stock price forecasting. The integration of strategic feature engineering significantly improves the models' accuracy, offering valuable insights for investors and researchers. Future work will explore larger datasets, additional features, and more complex model combinations to further enhance forecasting precision.
-
 
 
