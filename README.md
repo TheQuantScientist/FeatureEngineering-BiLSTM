@@ -1,9 +1,5 @@
 # Publication 
-This project has been accepted for presentation and publication at the 21st International Conference on Modeling Decision for Artificial Intelligence (MDAI 2024), published on LNAI of Springer. MDAI is ranked: CORE B and QUALIS B1.
-
-# Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering
-
-This project was conducted from May 2023 to August 2023 and submitted to MDAI in 2024. This repository contains the implementation of advanced Deep Learning models, specifically BiLSTM, for stock price forecasting using enhanced feature engineering techniques. The focus is on predicting the future adjusted closing prices of stocks (AAPL, AMZN, MSFT) with high accuracy and efficiency.
+This project has been accepted for presentation and publication at the 21st International Conference on Modeling Decision for Artificial Intelligence (MDAI 2024), published on LNCS of SpringerLink as "Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering". MDAI is ranked: CORE B and QUALIS B1.
 
 ## Project Overview
 
