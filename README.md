@@ -1,5 +1,5 @@
 # Publication 
-This project has been accepted for presentation and publication at the 21st International Conference on Modeling Decision for Artificial Intelligence (MDAI 2024), published on LNCS of SpringerLink as "Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering". MDAI is ranked: CORE B and QUALIS B1.
+This project has been accepted for presentation and publication at the 21st International Conference on Modeling Decision for Artificial Intelligence (MDAI 2024), published on LNCS of SpringerLink as "[Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering](https://link.springer.com/chapter/10.1007/978-3-031-68208-7_20)". MDAI is ranked: CORE B and QUALIS B1.
 
 ## Project Overview
 
