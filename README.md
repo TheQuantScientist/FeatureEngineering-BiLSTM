@@ -1,9 +1,6 @@
 # Publication 
 This project has been accepted for presentation and publication at the 21st International Conference on Modeling Decision for Artificial Intelligence (MDAI 2024), published on LNCS of SpringerLink. MDAI is ranked: **CORE B** and **QUALIS B1**.
 
-**Link to paper:** 
-> [Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering](https://link.springer.com/chapter/10.1007/978-3-031-68208-7_20)
-
 ## Project Overview
 
 The unpredictable nature of stock prices makes accurate forecasting a significant challenge. This research delves into the comparative performance of various models, showcasing the superiority of Deep Learning architectures over traditional statistical and Machine Learning models. Enhanced datasets, incorporating technical and macroeconomic indicators, further improve the predictive capabilities of these models. Our BiLSTM model, trained on these enhanced datasets, demonstrates a substantial reduction in forecasting errors, achieving an average MSE reduction of 68.44% and MAE reduction of 47.78% compared to raw OHLCV data.
